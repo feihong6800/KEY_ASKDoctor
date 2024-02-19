@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "85091263212",
+    "firebase_url": "https://key-askdoctor-default-rtdb.firebaseio.com",
+    "project_id": "key-askdoctor",
+    "storage_bucket": "key-askdoctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85091263212:android:c7c7256a25097d2bc37bc9",
+        "android_client_info": {
+          "package_name": "com.example.key_askdoctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEx2Sthb1kkAixX_3GwpW9ib9Zn4qyMlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
